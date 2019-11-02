@@ -9,7 +9,7 @@ public class ProyectoFuturo {
         System.out.println("Criterio: " + respuesta);
     }
 
-    public static String veredicto(String valor1, String valor2) {
+    private static String veredicto(String valor1, String valor2) {
         String criterio;
         if (Integer.valueOf(valor2) > Integer.valueOf(valor1)) {
             criterio = "¡Fantástico! Seguro que lo apruebas todo.";
