@@ -1,3 +1,5 @@
+/* Proyecto Futuro. Autor: Jaime Sansano */
+
 package proyectofuturo;
 
 public class ProyectoFuturo {
